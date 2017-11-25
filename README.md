@@ -1,6 +1,5 @@
 ## md5-rename
 
-[![Build Status](https://travis-ci.org/axetroy/md5-rename.svg?branch=master)](https://travis-ci.org/axetroy/md5-rename)
 ![License](https://img.shields.io/badge/license-Apache-green.svg)
 
 A cli tool, rename the file with MD5 value
